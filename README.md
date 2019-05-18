@@ -20,7 +20,9 @@
 
 3. Training
 - [ ] Open file
-- [ ] training
+- [ ] training pakai sklearn
 - [ ] Simpan 
 
 4. Testing
+- [ ] 
+- [ ]
